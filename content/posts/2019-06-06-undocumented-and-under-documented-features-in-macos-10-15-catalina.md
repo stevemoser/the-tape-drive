@@ -48,7 +48,6 @@ With macOS 10.15 Catalina the Mac now supports WPA3 as noted in the Beta 1 relea
 
 #### New Frameworks
 
-* JetUI which is the codename for SwiftUI
 * Helium which might be the codename for Multi GPU Pooling technology for the new Mac Pro
 * Geode which might be the new photo editing UI for the Photos app
 * Mondrian (as in Piet Mondrian) which might be the new layout (PhotosAtlasView) for Photos in the Photos app
