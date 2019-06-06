@@ -2,6 +2,6 @@
 template: page
 title: Contact me
 slug: contacts
-draft: true
+draft: false
 ---
 Twitter: [@SteveMoser](https://twitter.com/SteveMoser)
