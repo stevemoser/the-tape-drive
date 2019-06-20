@@ -2,7 +2,7 @@
 template: post
 title: Apple's List of 235 Apps that are incompatible with macOS Catalina
 slug: 235-apps-incompatible-with-catalina
-draft: true
+draft: false
 date: 2019-06-20T18:53:23.599Z
 description: >-
   A bundle called IncompatibleAppsList.bundle found in
