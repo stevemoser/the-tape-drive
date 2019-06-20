@@ -17,7 +17,7 @@ tags:
 ---
 ![Incompatible App List](/media/incompatible-catalina-apps.jpg "Incompatible App List")
 
-A bundle called IncompatibleAppsList.bundle found in `/Library/Apple/Library/Bundles/` in macOS Catalina contains a of list of 235 apps that are incompatible with Catalina. Presumely Apple might show the user a list of currently installed apps that are incompatible with Catalina during the setup process in a future beta. Many of the apps listed are included only because older versions of the apps are incompatible as noted by the strings included with the bundle. This is example of the one for Transmit: `Transmit: this version of Transmit is not compatible with this version of macOS.` Some notable inclusions are:
+A bundle called IncompatibleAppsList.bundle found in `/Library/Apple/Library/Bundles/` in macOS Catalina contains a of list of 235 apps that are incompatible with Catalina. This list is used by the Catalina installation process to show the user a list of currently installed apps that are incompatible. Many of the apps listed are included only because older versions of the apps are incompatible as noted by the strings included with the bundle. This is example of the one for Transmit: `Transmit: this version of Transmit is not compatible with this version of macOS.` Some notable inclusions are:
 
 * Transmit 4.1.7
 * 1Password 2.12.2
