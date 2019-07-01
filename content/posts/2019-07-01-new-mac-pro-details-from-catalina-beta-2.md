@@ -2,7 +2,7 @@
 template: post
 title: New Mac Pro Details from Catalina Beta 2
 slug: mac-pro-catalina-beta-2
-draft: true
+draft: false
 date: 2019-07-01T16:26:24.058Z
 description: >-
   Catalina (macOS 10.15) Beta 2 includes some new details on the new 2019 Mac
