@@ -23,6 +23,6 @@ Catalina (macOS 10.15) Beta 2 includes some new details on the new 2019 Mac Pro 
 The Memory Slot Utility app has also been updated with references to K71S and K52S build configurations for the 2019 Mac Pro.
 ![](/media/memory-slot-utiltiy.jpg)
 
-Finally a display related framework I found the landscape and portrait artwork used for the new Apple Pro Display XDR. This artwork is used in Display preferences window to show which monitor is in use. 
+Finally, in a display related framework, I found the landscape and portrait artwork used for the new Apple Pro Display XDR. This artwork is used in Display preferences window to show which monitor is in use. 
 ![lanscape xdr display](/media/pro-xdr-display-landscape.jpg "Apple Pro XDR Display in Landscape")
 ![portrait xdr display](/media/pro-xdr-display-potrait.jpg "Apple Pro XDR Display in Portrait")
