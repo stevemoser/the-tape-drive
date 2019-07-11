@@ -4,7 +4,7 @@ title: >-
   Face ID fails to prevent access to iCloud Keychain passwords in iOS 13 Public
   Beta
 slug: face-id-fail-ios-13
-draft: true
+draft: false
 date: 2019-07-11T16:15:13.984Z
 description: >-
   In iOS 13 Public Beta 2 and Developer Beta 3 Face ID does not authorize before
