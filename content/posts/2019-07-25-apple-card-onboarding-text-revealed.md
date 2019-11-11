@@ -30,7 +30,7 @@ Transaction data is stored in iCloud so perhaps Apple Card users can see their t
 
 ### Marketing messages
 
-Apple will target users for marketing emails and push notifications based on their transaction history. "For example, Apple may send a message to your device that is relevant to people who typically purchase travel." Apple might have been able to negotiate reduced fees by agreeing to allow advertising to Apple Card users.
+Apple will target users for marketing emails and push notifications based on their transaction history. "For example, Apple may send a message to your device that is relevant to people who typically purchase travel." 
 
 ### Apple Card on the web
 
