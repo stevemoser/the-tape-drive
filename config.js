@@ -3,7 +3,7 @@
 module.exports = {
   url: "https://thetapedrive.com",
   title: "The Tape Drive",
-  subtitle: "All the Apple news that is fit to commit. By Steve Moser",
+  subtitle: "All the Tech News That's Fit to Commit. By Steve Moser",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
