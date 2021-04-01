@@ -2,7 +2,7 @@
 template: post
 title: 'Exclusive: Sony Working on a successor to the Sony Shake X30D and X70D'
 slug: exclusive-sony-shake-x31d-x71d
-draft: true
+draft: false
 date: 2021-04-01T21:49:22.891Z
 description: >-
   Sony is working on a successor to the Sony Shake X30D, the Sony Shake X31D.
