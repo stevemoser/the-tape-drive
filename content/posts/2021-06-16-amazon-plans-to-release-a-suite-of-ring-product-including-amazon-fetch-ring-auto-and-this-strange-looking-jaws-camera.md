@@ -20,7 +20,7 @@ Amazon is readying releases of Ring Fetch, Ring Auto, and this strange camera wi
 
 ## Amazon Fetch
 
-Amazon previewed Amazon Fetch, it's AirTag like tracker, at its event last. It is not clear if the Sidewalk powered tag will come under the Ring brand as Ring Fetch. While Amazon advertised the tag as primarliy a pet tracker at it's event, Amazon will also promote it's use as a personal item tracker such as tracking bags and bikes.
+Amazon previewed Amazon Fetch, it's AirTag like tracker, at its event last. It is not clear if the Sidewalk powered tag will come under the Ring brand as Ring Fetch. While Amazon advertised the tag as primarily a pet tracker at it's event, Amazon will also promote it's use as a personal item tracker such as tracking bags and bikes.
 
 ![](/media/post_setup_tag_icon.jpg "Amazon Fetch")
 
