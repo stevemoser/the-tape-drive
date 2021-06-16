@@ -20,7 +20,7 @@ Amazon is readying releases of Ring Fetch, Ring Auto, and this strange camera wi
 
 ## Amazon Fetch
 
-Amazon previewed Amazon Fetch, it's AirTag like tracker, at its event last. It is not clear if the Sidewalk powered tag will come under the Ring brand as Ring Fetch. While Amazon advertised the tag as primarily a pet tracker at it's event, Amazon will also promote it's use as a personal item tracker such as tracking bags and bikes.
+Amazon previewed Amazon Fetch, its AirTag like tracker, at its event last. It is not clear if the Sidewalk powered tag will come under the Ring brand as Ring Fetch. While Amazon advertised the tag as primarily a pet tracker at it's event, Amazon will also promote it's use as a personal item tracker such as tracking bags and bikes.
 
 ![](/media/post_setup_tag_icon.jpg "Amazon Fetch")
 
@@ -28,7 +28,7 @@ Amazon previewed Amazon Fetch, it's AirTag like tracker, at its event last. It i
 
 ## Ring Auto
 
-Amazon is also preparing to launch a car tracking device that plugs into a vehicle's OBD2 port. Users will be able to set up geofences to let them or other users know when a vehicle left or arrived at a certain location. The Ring Auto device features the familiar cicular Ring light. The Amazon or Ring device will also alert users when their vehicle has been tampered with such as if someone is rocking the vehicle. A sentivity setting will let user adjust which events will trigger alerts.
+Amazon is also preparing to launch a car tracking device that plugs into a vehicle's OBD2 port. Users will be able to set up geofences to let them or other users know when a vehicle left or arrived at a certain location. The Ring Auto device features the familiar circular Ring light. The Amazon or Ring device will also alert users when their vehicle has been tampered with such as if someone is rocking the vehicle. A sentivity setting will let user adjust which events will trigger alerts.
 
 ![](/media/post_setup_car_alarm_sensitivity.jpg "Ring Auto Alarm Sensitivity ")
 
