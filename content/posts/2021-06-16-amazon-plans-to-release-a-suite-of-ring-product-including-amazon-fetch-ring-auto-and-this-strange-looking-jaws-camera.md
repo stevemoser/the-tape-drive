@@ -30,9 +30,9 @@ Amazon previewed Amazon Fetch, it's AirTag like tracker, at its event last. It i
 
 Amazon is also preparing to launch a car tracking device that plugs into a vehicle's OBD2 port. Users will be able to set up geofences to let them or other users know when a vehicle left or arrived at a certain location. The Ring Auto device features the familiar cicular Ring light. The Amazon or Ring device will also alert users when their vehicle has been tampered with such as if someone is rocking the vehicle. A sentivity setting will let user adjust which events will trigger alerts.
 
-![](/media/group_autos-2x-copy.jpg "Ring Auto Plug")
+![](/media/post_setup_car_alarm_sensitivity.jpg "Ring Auto Alarm Sensitivity ")
 
-![](/media/post_setup_tag_intro.jpg "Ring Auto")
+![](/media/group_autos-2x-copy.jpg "Ring Auto Plug")
 
 ## Alexa Greeting
 
