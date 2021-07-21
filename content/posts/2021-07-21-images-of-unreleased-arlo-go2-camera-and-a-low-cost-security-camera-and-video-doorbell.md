@@ -1,8 +1,8 @@
 ---
 template: post
 title: >-
-  Images of Unreleased Arlo Go2 Camera and a Low Cost Security Camera and Video
-  Doorbell
+  Exclusive: Images of Unreleased Arlo Go2 Camera and Low Cost Security Camera
+  and Video Doorbell
 slug: >-
   images-of-unreleased-arlo-go-v2-camera-and-a-low-cost-security-camera-and-video-doorbell
 draft: false
