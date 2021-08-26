@@ -1,6 +1,6 @@
 ---
 template: post
-title: Samsung's Mysterious Luxo Device Revealed
+title: Mysterious Samsung Luxo Device Revealed
 slug: samsungs-mysterious-luxo-device-revealed
 draft: false
 date: 2021-08-24T13:26:46.504Z
