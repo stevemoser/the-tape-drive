@@ -1,21 +1,21 @@
 ---
 template: post
 title: >-
-  Amazon is Launching their Packaging-Free Delivery (PFD) to the United States
-  Soon
+  Amazon is Launching their Packaging-Free Delivery (PFD) Service in the United
+  States Soon
 slug: >-
   amazon-is-launching-their-packaging-free-delivery-pfs-to-the-united-states-soon
 draft: false
 date: 2021-08-27T20:07:30.793Z
 description: >-
-  Amazon is launching their Packaging-Free Delivery (PFD) to the United States
-  soon. Amazon has been expanding their Packaging-Free Delivery option to more
-  cities in India recently:
+  Amazon is launching their Packaging-Free Delivery (PFD) service in the United
+  States soon. Amazon has been expanding their Packaging-Free Delivery option to
+  more cities in India recently:
 category: Amazon
 tags:
   - Amazon
 ---
-Amazon is launching their Packaging-Free Delivery (PFD) to the United States soon. [Amazon has been expanding](https://www.aboutamazon.in/news/operations/amazon-india-expands-packaging-free-shipping-to-more-than-100-cities) their Packaging-Free Delivery option to more cities in India recently where it is called Packaging-Free Shipping (PFS) instead of Packaging-Free Delivery (PFD):
+Amazon is launching their Packaging-Free Delivery (PFD) service in the United States soon. [Amazon has been expanding](https://www.aboutamazon.in/news/operations/amazon-india-expands-packaging-free-shipping-to-more-than-100-cities) their Packaging-Free Delivery option to more cities in India recently where it is called Packaging-Free Shipping (PFS) instead of Packaging-Free Delivery (PFD):
 
 > Amazon had first launched PFS in India in June 2019 in 9 cities and within a year, the company has been able to successfully expand this program to more than 100 cities.
 >
