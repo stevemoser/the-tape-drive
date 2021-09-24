@@ -11,6 +11,6 @@ category: Ecobee
 tags:
   - Ecobee
 ---
-Ecobee is working on a new 6th gen Ecobee thermostat. This new smart thermostat, codenamed Ares,  looks like it includes a UI redesign as the menu, weather, and settings buttons have moved to the top. It is not clear at this time what new features will ship with this 6th gen Ecobee thermostat. The 5th gen Ecobee was released in 2020 and featured deeper Alexa integration. Perhaps this 6th gen Ecobee thermostat could provide better support for Siri on 3rd party devices. 
+Ecobee is working on a new 6th gen Ecobee thermostat. This new smart Ecobee6 thermostat, codenamed Ares, looks like it includes a UI redesign as the menu, weather, and settings buttons have moved to the top. It is not clear at this time what new features will ship with this 6th gen Ecobee thermostat. The 5th gen Ecobee was released in 2020 and featured deeper Alexa integration. In a [2018 interview with cnet](https://www.cnet.com/news/inside-ecobee-thermostat-smart-home-plans-to-outsmart-nest/), Casey McKinnon, vice president of product, said the company was working on Ecobee5 and Ecobee6. Perhaps this 6th gen Ecobee thermostat could provide better support for Siri on 3rd party devices. 
 
 ![](/media/icdevicearessmart-2x.png "6th gen Ecobee")
