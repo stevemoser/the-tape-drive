@@ -1,6 +1,6 @@
 ---
 template: post
-title: Oura Ring 3 Leak Show Design Tweaks
+title: Oura Ring 3 Leak Shows Sensor Tweak
 slug: oura-ring-3-leaked
 draft: false
 date: 2021-10-05T18:22:43.332Z
