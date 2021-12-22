@@ -16,7 +16,7 @@ Amazon announced their pet tracker, Amazon Fetch, in the Fall of 2019. The as-of
 
 ![](/media/screen-shot-2021-12-22-at-1.41.02-pm.png)
 
-Amazon is also working on adding ONVIF camera support to the Ring app. Amazon may require Ring Protect Pro subscription plan and Ring Alarm Pro device in order to connect their ONVIF camera to the Ring app and hardware.
+Amazon is also working on adding ONVIF camera support to the Ring app (Ring uses Amcrest as an example). Amazon may require Ring Protect Pro subscription plan and Ring Alarm Pro device in order to connect their ONVIF camera to the Ring app and hardware.
 
 Ring is nearing the release of their Always Home Cam as a calibration video details the bottom of the indoor drone. The 3 contacts imply that the drone will only charge when docked in the correct orientation.
 
