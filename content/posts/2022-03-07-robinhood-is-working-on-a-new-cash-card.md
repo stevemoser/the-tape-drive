@@ -1,7 +1,7 @@
 ---
 template: post
 title: Robinhood is working on a new Cash Card
-slug: Robinhood is working on a new Cash Card
+slug: robinhood-is-working-on-a-new-cash-card
 draft: false
 date: 2022-03-07T23:47:58.530Z
 description: >-
