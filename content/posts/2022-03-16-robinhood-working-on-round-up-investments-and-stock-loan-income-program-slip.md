@@ -2,7 +2,7 @@
 template: post
 title: Robinhood working on Round-up investments and Stock Loan Income Program - SLIP
 slug: robinhood-working-on-round-up-investments-and-stock-loan-income-program-slip
-draft: true
+draft: false
 date: 2022-03-16T19:13:51.203Z
 description: >-
   I found code in Robinhood's iOS app that implies Robinhood is working on a
