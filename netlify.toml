@@ -5,5 +5,20 @@
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
 
-http://thetapedrive.com/* https://www.thetapedrive.com/:splat 301!
-https://thetapedrive.com/* https://www.thetapedrive.com/:splat 301!
+[[redirects]]
+  from = "/*"
+  to = "https://api.example.com/p/:splat"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "http://thetapedrive.com/"
+  to = "https://www.thetapedrive.com/"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "https://thetapedrive.com/"
+  to = "https://www.thetapedrive.com/"
+  status = 301
+  force = true
