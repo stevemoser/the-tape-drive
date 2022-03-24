@@ -7,7 +7,7 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://api.example.com/p/:splat"
+  to = "https://www.thetapedrive.com/p/:splat"
   status = 301
   force = true
   
