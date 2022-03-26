@@ -6,7 +6,7 @@
   YARN_FLAGS = "--no-ignore-optional"
 
 [[redirects]]
-  from = "/*"
+  from = "http://thetapedrive.com/*/"
   to = "https://www.thetapedrive.com/p/:splat"
   status = 301
   force = true
