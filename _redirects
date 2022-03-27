@@ -3,4 +3,7 @@
 # Redirect default Netlify subdomain to primary domain
 #https://thetapedrive.netlify.com/* https://thetapedrive.com/:splat 301!
 https://thetapedrive.netlify.com/* https://www.thetapedrive.com/:splat 301!
+https://thetapedrive.com/ https://www.thetapedrive.com/ 301!
+http://thetapedrive.com/ https://www.thetapedrive.com/ 301!
 https://thetapedrive.com/* https://www.thetapedrive.com/p/:splat 301!
+http://thetapedrive.com/* https://www.thetapedrive.com/p/:splat 301!
